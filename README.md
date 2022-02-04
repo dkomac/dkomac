@@ -1,4 +1,4 @@
-### beware, monkey patching may occur 🦍
+### beware, monkey patching may occur 🦍🍌
 
 <!--
 **dkomac/dkomac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
